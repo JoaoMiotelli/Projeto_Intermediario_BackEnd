@@ -6,7 +6,6 @@ public class AnimeModel {
     private boolean success;
     private List<AnimeData> data;
 
-    // Getters and setters
     public boolean isSuccess() {
         return success;
     }
