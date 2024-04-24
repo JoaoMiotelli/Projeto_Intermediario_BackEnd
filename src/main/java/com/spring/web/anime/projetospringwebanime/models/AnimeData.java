@@ -5,7 +5,6 @@ public class AnimeData {
     private String anime_name;
     private String anime_img;
 
-    // Getters and setters
     public int getAnime_id() {
         return anime_id;
     }
