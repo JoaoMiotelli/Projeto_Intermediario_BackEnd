@@ -9,8 +9,8 @@ public class AjudaService {
 
     public AjudaDTO getAjuda() {
         AjudaDTO ajuda = new AjudaDTO();
-        ajuda.setEstudante("Seu Nome");
-        ajuda.setProjeto("Nome do Projeto");
+        ajuda.setEstudante("João Victor Miotelli Vitali");
+        ajuda.setProjeto("Projeto Itermediário Anime API");
         return ajuda;
     }
 }
